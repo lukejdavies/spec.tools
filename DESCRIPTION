@@ -1,0 +1,11 @@
+Package: spec.tools
+Type: Package
+Title: Functions for analysing, displaying and editing spectra
+Version: 1.0
+Date: 2016-11-15
+Author: Luke Davies 
+Maintainer: Luke Davies <luke.j.davies@uwa.edu.au>
+Description: Functions for analysing, displaying and editing spectra
+License: GPL-3
+Depends: R (>= 3.00), FITSio, magicaxis, astro
+
